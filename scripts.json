@@ -26,7 +26,7 @@
     {
         "game": "Jailbreak",
         "title": "Project Auto V4",
-        "image": "https://static.wikia.nocookie.net/rblx-jailbreak/images/4/4d/JBHomepageLinkToJailbreak.png/revision/latest/scale-to-width-down/795?cb=20220511060051",
+        "image": "https://tr.rbxcdn.com/6ac1a6eafaca6fca8b4211173d38dea6/768/432/Image/Webp",
         "script": "loadstring(game:HttpGet('https://scripts.projectauto.xyz/AutoRobV4'))()"
     },
     {
