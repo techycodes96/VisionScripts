@@ -25,9 +25,9 @@
     },
     {
         "game": "Jailbreak",
-        "title": "Project Auto",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqa3mknIaFjFxh9Pz4yQsv55KW58hfJHhxOpRpXvVAfKpz-7ozw0qtZ_8o-TJ1yuSiZMA&usqp=CAU",
-        "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Pxsta72/ProjectAuto/main/AutoRobV4Release'))()"
+        "title": "Project Auto V4",
+        "image": "https://static.wikia.nocookie.net/rblx-jailbreak/images/4/4d/JBHomepageLinkToJailbreak.png/revision/latest/scale-to-width-down/795?cb=20220511060051",
+        "script": "loadstring(game:HttpGet('https://scripts.projectauto.xyz/AutoRobV4'))()"
     },
     {
         "game": "Bladeball",
