@@ -1,0 +1,38 @@
+[
+    {
+        "game": "Universal",
+        "title": "Infinite Yield",
+        "image": "https://img.freepik.com/free-photo/2d-graphic-colorful-wallpaper-with-grainy-gradients_23-2151001533.jpg",
+        "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()"
+    },
+    {
+        "game": "Universal",
+        "title": "Orca Script Hub",
+        "image": "https://repository-images.githubusercontent.com/466870557/341938e6-9c92-4c22-b4bd-d0f01defd07f",
+        "script": "loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/richie0866/orca/master/public/latest.lua'))()"
+    },
+    {
+       "game": "Apocaylpse Rising 2",
+        "title": "Vital.wtf ",
+        "image": "https://tr.rbxcdn.com/cab044cd348616ff63d086a25eed00d9/768/432/Image/Webp",
+        "script": "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/b152514a6abe3eb886a41fff69c6730c.lua'))()"
+    },
+    {
+        "game": "Jailbreak",
+        "title": "Sensation",
+        "image": "https://i.ytimg.com/vi/QvyZKGBR-ic/maxresdefault.jpg",
+        "script": "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/730854e5b6499ee91deb1080e8e12ae3.lua'))()"
+    },
+    {
+        "game": "Jailbreak",
+        "title": "Project Auto",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqa3mknIaFjFxh9Pz4yQsv55KW58hfJHhxOpRpXvVAfKpz-7ozw0qtZ_8o-TJ1yuSiZMA&usqp=CAU",
+        "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Pxsta72/ProjectAuto/main/AutoRobV4Release'))()"
+    },
+    {
+        "game": "Bladeball",
+        "title": "Nexam Hub",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1LPn_q_N04a4cswjIWY0lhdiB3qbRhx9kRw&s",
+        "script": "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/5ebefab5c68bfa67271dcbf6430d3c7d.lua'))()"
+    }
+]
