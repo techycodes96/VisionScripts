@@ -33,6 +33,6 @@
         "game": "Bladeball",
         "title": "Nexam Hub",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1LPn_q_N04a4cswjIWY0lhdiB3qbRhx9kRw&s",
-        "script": "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/5ebefab5c68bfa67271dcbf6430d3c7d.lua'))()"
+        "script": "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/6af56c1753ac6679dee3acbd1fd952e5.lua'))()"
     }
 ]
